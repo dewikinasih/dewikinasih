@@ -31,11 +31,11 @@ All projects are archived in their respective repositories. Every repos contains
   - Database Management : SQL (select, join, filter, sort, groupby)
 
 ## <div align='left'> Find Me At </div>
-  [Email](dewikinasihh@gmail.com)
+  Email : dewikinasihh@gmail.com
   
   [Medium](https://dewikinasih.medium.com/)
   
-  [Linkedin](linkedin.com/in/dewi-kinasih)
+  [Linkedin](https://www.linkedin.com/in/dewi-kinasih/)
   
 <!--
 **dewikinasih/dewikinasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
