@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my portfolio
+
+Collection of data analysis projects that I have done
+
+All projects are archived in their respective repositories. Every repos contains a brief explanation about the peoject, the code I used, and medium link for some projects published on medium.
 
 ## <div align='center'> About Me </div>
 
@@ -25,7 +30,12 @@
   - Data Visualization : Tableau (EDA, interactive dashboard, maps and geographic visualization)
   - Database Management : SQL (select, join, filter, sort, groupby)
 
-
+## <div align='left'> Find Me At </div>
+  [Email](dewikinasihh@gmail.com)
+  
+  [Medium](https://dewikinasih.medium.com/)
+  
+  [Linkedin](linkedin.com/in/dewi-kinasih)
   
 <!--
 **dewikinasih/dewikinasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
