@@ -3,7 +3,7 @@ Welcome to my portfolio
 
 Collection of my data analysis projects
 
-All projects are archived in their respective repositories. Every reposistory contains a brief explanation about the peoject, the code I used, and medium link for some projects published on medium.
+All projects are archived in their respective repositories. Every repository contains a brief explanation about the peoject, the code I used, and medium link for some projects published on medium.
 
 ## <div align='center'> About Me </div>
 
@@ -13,7 +13,7 @@ All projects are archived in their respective repositories. Every reposistory co
 
 - ⚡ Fun fact: I'm also interested in marketing field
 
--  As a statistics student, I’m used to working with various qualitative and quantitative data analysis method with various analytical tool. These experiences, along with the high score of GPA (3.73/4.00) has encouraged and motivated me pursue a career as a data analyst,Business Intelligence analyst, data engineer, or data scientist
+-  As a statistics student, I’m used to working with various qualitative and quantitative data analysis method with various analytical tool. These experiences, along with the high score of GPA (3.73/4.00) has encouraged and motivated me to pursue a career as a data analyst, Business Intelligence analyst, data engineer, or data scientist
 
 ## <div align='left'> Data and Statistics Programming Language That I frequently Used </div>
 
