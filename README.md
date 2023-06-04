@@ -7,7 +7,7 @@ All projects are archived in their respective repositories. Every repository con
 
 ## <div align='center'> About Me </div>
 
-- 🔭 I’m currently working on "The Ownership of Health Insurance in East Java Dashboard"
+- 🔭 I’m currently working on "Fraud detection"
 
 - 🌱 I’m currently learning Random Forest Algorithm
 
@@ -27,8 +27,8 @@ All projects are archived in their respective repositories. Every repository con
   - Excel and Spreadsheet : Pivot table, VLookup, Graphic, Basic function
   - Data Analysis : Exploration Data Analysis (EDA), Correlation and Regression Analysis, Clustering Analysis, Data Cleaning, Descriptive Statistics, Basic Machine Learning
   - Programming Language : Python (pandas, numpy, sklearn, matplotlib, seaborn) and R (stats, dplyr, ggplot2, and others)
-  - Data Visualization : Tableau (EDA, interactive dashboard, maps and geographic visualization)
-  - Database Management : SQL (select, join, filter, sort, groupby)
+  - BI Engine : Tableau and Looker Studio(EDA, interactive dashboard, maps and geographic visualization)
+  - Database Management : Big Query 
 
 ## <div align='left'> Find Me At </div>
   Email : dewikinasihh@gmail.com
