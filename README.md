@@ -21,7 +21,7 @@ All projects are archived in their respective repositories. Every repository con
   - Excel and Spreadsheet : Pivot table, VLookup, Graphic, Basic function
   - Data Analysis : Exploration Data Analysis (EDA), Correlation and Regression Analysis, Clustering Analysis, Data Cleaning, Descriptive Statistics, Basic Machine Learning
   - Programming Language : Python (pandas, numpy, sklearn, matplotlib, seaborn) and R (stats, dplyr, ggplot2, and others)
-  - BI Engine : Tableau and Looker Studio(EDA, interactive dashboard, maps and geographic visualization)
+  - BI Engine : Tableau, Looker Studio, and Power BI (EDA, interactive dashboard, maps and geographic visualization)
   - Database Management : Big Query 
 
 ## <div align='left'> Find Me At </div>
